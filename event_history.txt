@@ -1,0 +1,34 @@
+	
+a1b2c3d4-e5f6-7890-1234-567890abcdef|Founding of ArchaeoData|2023-01-01T10:00:00Z|2023-01-01T11:30:00Z|NULL|Initial establishment of the company focusing on data salvage.
+c8d7e6f5-a4b3-2109-8765-4321fedcba98|Pilot Project Alpha|2023-01-05T09:00:00Z|2023-01-05T17:00:00Z|a1b2c3d4-e5f6-7890-1234-567890abcdef|First major data reconstruction pilot spanning a full workday.
+6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d|Team Brainstorm Session|2023-01-06T10:00:00Z|2023-01-06T11:00:00Z|NULL|A session for new ideas.	
+01234567-89ab-cdef-0123-456789abcdef|System Upgrade|2023-01-06T10:30:00Z|2023-01-06T12:00:00Z|NULL|Upgrading server infrastructure. (Overlaps with Brainstorm)	
+22334455-6677-8899-aabb-ccddeeff0011|Security Audit|2023-01-06T11:30:00Z|2023-01-06T13:00:00Z|NULL|Review of system security protocols. (Overlaps with System Upgrade)	
+malformed-id-1|Broken Event|2023-01-02T09:00:00Z|2023-01-02T10:00:00Z|NULL|Missing one field.	
+invalid-value|Negative Research Value|2023-04-01T09:00:00Z|2023-04-01T10:00:00Z|NULL|Research value is negative.	
+f7e6d5c4-b3a2-1098-7654-3210fedcba98|Phase 1 Research|2023-01-01T10:30:00Z|2023-01-01T11:00:00Z|a1b2c3d4-e5f6-7890-1234-567890abcdef|Early research on data fragmentation techniques.	
+33445566-7788-99aa-bbcc-ddeeff001122|Post-Audit Meeting|2023-01-06T13:30:00Z|2023-01-06T14:00:00Z|22334455-6677-8899-aabb-ccddeeff0011|Discussing audit findings. (29 min gap with Security Audit)	
+10101010-2020-3030-4040-505050505050|Analysis Start|2023-03-01T09:00:00Z|2023-03-01T10:00:00Z|NULL|Initiating data analysis.	
+b5c6d7e8-f9a0-b1c2-d3e4-f5a6b7c8d9e0|Model Training|2023-02-02T17:00:00Z|2023-02-03T09:00:00Z|a4b5c6d7-e8f9-a0b1-c2d3-e4f5a6b7c8d9|Training machine learning models on cleaned data. (Longest single event in this path)	
+21212121-3232-4343-5454-656565656565|Analysis Start|2023-03-05T09:00:00Z|2023-03-05T10:00:00Z|NULL|Initiating data analysis (repeat pattern).	
+c6d7e8f9-a0b1-c2d3-e4f5-a6b7c8d9e0f1|Deployment Planning|2023-02-03T09:00:00Z|2023-02-03T12:00:00Z|b5c6d7e8-f9a0-b1c2-d3e4-f5a6b7c8d9e0|Planning for the system's live deployment.	
+1a2b3c4d-5e6f-7890-1234-567890abcdef|Data Acquisition for Alpha|2023-01-05T09:00:00Z|2023-01-05T12:00:00Z|c8d7e6f5-a4b3-2109-8765-4321fedcba98|Collecting raw data for the Alpha project.	
+5f6e7d8c-9a0b-1c2d-3e4f-5a6b7c8d9e0f|Analysis Phase Alpha|2023-01-05T13:00:00Z|2023-01-05T17:00:00Z|c8d7e6f5-a4b3-2109-8765-4321fedcba98|Analyzing the collected data. (Gap between Acquisition and Analysis)	
+23232323-3434-4545-5656-676767676767|Internal Review|2023-03-05T12:00:00Z|2023-03-05T12:45:00Z|NULL|Internal review of findings.	
+duplicate-id|Duplicate ID Event|2023-04-02T09:00:00Z|2023-04-02T10:00:00Z|NULL|This ID will be duplicated below.	
+e2f3a4b5-c6d7-e8f9-a0b1-c2d3e4f5a6b7|Phase 1 - Data Sourcing|2023-02-01T10:00:00Z|2023-02-01T14:00:00Z|d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a|Identifying and acquiring relevant data sets.	
+20202020-3030-4040-5050-606060606060|Client Feedback|2023-03-01T12:00:00Z|2023-03-01T13:00:00Z|NULL|Gathering feedback from the client. (30 min gap)	
+another-bad-line|Incorrect Date Format|2023/01/03 10:00|2023/01/03 11:00|NULL|Date not in ISO format.	
+31313131-4242-5353-6464-757575757575|Presentation Prep|2023-03-06T13:00:00Z|2023-03-06T15:00:00Z|30303030-4040-5050-6060-707070707070|Preparing for client presentation.	
+just|a|few|fields|NULL|1|Too few fields.	
+duplicate-id|Another Duplicate ID Event|2023-04-02T11:00:00Z|2023-04-02T12:00:00Z|NULL|This ID is a duplicate.	
+d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a|Project Gaia Initiation|2023-02-01T09:00:00Z|2023-02-01T10:00:00Z|NULL|Beginning of a long-term data project.	
+9b8a7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d|Marketing Campaign Launch|2023-01-10T14:00:00Z|2023-01-10T16:00:00Z|NULL|Announcing ArchaeoData services to the public.	
+11111111-2222-3333-4444-555555555555|Report Draft|2023-03-01T10:30:00Z|2023-03-01T11:30:00Z|NULL|Drafting the preliminary report. (30 min gap)	
+f3a4b5c6-d7e8-f9a0-b1c2-d3e4f5a6b7c8|Data Cleaning & Validation|2023-02-01T14:00:00Z|2023-02-01T18:00:00Z|e2f3a4b5-c6d7-e8f9-a0b1-c2d3e4f5a6b7|Preprocessing raw data for analysis.	
+0d9e8f7a-6b5c-4d3e-2f1a-0b9c8d7e6f5a|Customer Onboarding Phase|2023-01-15T09:00:00Z|2023-01-15T18:00:00Z|NULL|Bringing in initial clients. (Significant gap before this event)	
+11223344-5566-7788-9900-aabbccddeeff|Internal Review Meeting|2023-01-01T10:45:00Z|2023-01-01T11:15:00Z|f7e6d5c4-b3a2-1098-7654-3210fedcba98|Reviewing initial research findings. (Overlaps with Phase 1 Research)	
+a4b5c6d7-e8f9-a0b1-c2d3-e4f5a6b7c8d9|Algorithm Development|2023-02-02T09:00:00Z|2023-02-02T17:00:00Z|d1e2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a|Developing core algorithms for data reconstruction. (Parallel to Phase 1)	
+22222222-3333-4444-5555-666666666666|Report Draft|2023-03-05T10:30:00Z|2023-03-05T11:30:00Z|NULL|Drafting the preliminary report (repeat pattern).	
+24242424-3535-4646-5757-686868686868|Client Feedback|2023-03-05T13:30:00Z|2023-03-05T14:30:00Z|NULL|Gathering feedback from the client (repeat pattern).	
+30303030-4040-5050-6060-707070707070|Final Report|2023-03-06T09:00:00Z|2023-03-06T12:00:00Z|NULL|Compiling the final historical report.	

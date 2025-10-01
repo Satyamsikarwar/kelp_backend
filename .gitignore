@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
+# Sensitive configuration files
+.env
+config.ini # Only if it contains sensitive information
+
+# Test-related files
+.pytest_cache/
+.coverage
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
